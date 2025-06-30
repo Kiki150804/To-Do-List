@@ -1,0 +1,12 @@
+mern_pass123
+mern_user
+
+mongodb+srv://mern_user:mern_pass123@mern-cluster.5dupsg4.mongodb.net/?retryWrites=true&w=majority&appName=mern-cluster
+
+MONGO_URI=mongodb+srv://mern_user:mern_pass123@mern-cluster.5dupsg4.mongodb.net/?retryWrites=true&w=majority&appName=mern-cluster
+GMAIL_USERNAME=kkeerthi1504@gmail.com
+GMAIL_PASSWORD=xhrz aixi ospu bhdn
+PORT=8000
+JWT_SECRET=thisisasecretkey
+
+xhrz aixi ospu bhdn
